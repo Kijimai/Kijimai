@@ -1,3 +1,3 @@
 - 👋 Hi, I’m John
 - 👀 I’m interested in front end web development and design
-- 🌱 I’m currently learning SASS, APIs, Node, Mongo/Mongoose, React
+- 🌱 I’m currently learning Sass, APIs, Node, Mongo/Mongoose, React
