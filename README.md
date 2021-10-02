@@ -2,8 +2,6 @@
 - 👀 I’m interested in front end web development and design
 - 🌱 I’m currently learning Sass, APIs, Node, Mongo/Mongoose, React
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kijimai&theme=tokyonight)
-
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/john-deen-bucog-11059b213/)
 <br>
