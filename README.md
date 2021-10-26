@@ -2,10 +2,6 @@
 - 👀 I’m interested in front end web development and design
 - 🌱 I’m currently learning Sass, APIs, Node, Mongo/Mongoose, React
 
-## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/john-deen-bucog-11059b213/)
-<br>
-<br>
 ## Expertise
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="javascript" src="https://img.shields.io/badge/-Javascript-purple?style=for-the-badge&logo=javascript" />
