@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John
 - 👀 I’m interested in front end web development and design
-- 🌱 I’m currently learning Python, React, Webpack, Typescript, Mongoose, Express, Node, Unit testing and GraphQL
+- 🌱 I’m currently learning React, Redux, Typescript, Mongoose, Express, Node, Unit testing and GraphQL
 
 ## Expertise
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
